@@ -10,7 +10,7 @@ public class ExercicioAgenda {
 		Scanner ler = new Scanner(System.in);
 		
 		// Declaracao das variaveis 
-		int i = 0, j = 0, k = 0, linhas = 5, colunas = 5;
+		int i = 0, j = 0, k = 0, linhas = 10, colunas = 5;
 		// Declaracao da variavel de matriz com modulos definidos 
 		String m[][] = new String[linhas][colunas];
 		String x;
